@@ -81,5 +81,6 @@ Este projeto utiliza `@fastify/cors` para permitir requisições de qualquer ori
 O Fastify está configurado com `logger: true`, permitindo visualizar logs detalhados no console.
 
 ## Autor
-Este projeto foi desenvolvido como parte do curso [Formação Node.js](https://github.com/digitalinnovationone/formacao-nodejs) da DIO.
+Este projeto foi desenvolvido como parte do curso [Formação Node.js](https://github.com/digitalinnovationone/formacao-nodejs) da Digital Innovation One (DIO). O código segue a implementação apresentada no curso.
+
 
